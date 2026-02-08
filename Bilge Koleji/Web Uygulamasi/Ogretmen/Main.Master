@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Web_Uygulamasi.Ogretmen.Main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Öğretmen Portalı</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="../style.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrap">
+        <div id="header">
+            <div id="topnav">
+                <ul>
+                    <li id="mmL1" runat="server"><a href="Default.aspx">Duyurular</a></li>
+                    <li id="mmL2" runat="server"><a href="Mesajlar.aspx" id="mmMsj" runat="server">Mesajlar</a>
+                    </li>
+                    <li id="mmL3" runat="server"><a href="NotlarSiniflar.aspx">Notlar</a> </li>
+                    <li id="mmL4" runat="server"><a href="Ogretmenler.aspx">Öğretmenler</a></li>
+                    <li id="mmL5" runat="server"><a href="Dosyalar.aspx">Dosyalar</a></li>
+                </ul>
+            </div>
+            <div id="breadcrumb">
+                &nbsp;</div>
+            <h1 id="sitename">
+                <span id="baslik" runat="server"></span><span class="caption">Öğretmen Portalı</span>
+            </h1>
+        </div>
+        <div id="content">
+            <div id="left">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="sidebar">
+                <h3>
+                    KULLANICI İŞLEMLERİ</h3>
+                <ul>
+                    <li><a href="DuyuruYaz.aspx">Duyuru Yaz</a></li>
+                    <li><a href="Duyurularim.aspx">Duyurularım</a></li>
+                    <li><a href="NotlarSiniflar.aspx">Sınıflarım</a></li>
+                    <li>
+                        <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutPageUrl="~/Default.aspx"
+                            LogoutText="Çıkış Yap" />
+                    </li>
+                </ul>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div id="pagebottom">
+        </div>
+        <div id="footer">
+            <p>
+                &copy; Copyright by Bilge Koljei 2006 - 2008</p>
+            <p>
+                <a href="http://www.meb.gov.tr/" target="_blank">Milli Eğitim Bakanlığı</a></p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

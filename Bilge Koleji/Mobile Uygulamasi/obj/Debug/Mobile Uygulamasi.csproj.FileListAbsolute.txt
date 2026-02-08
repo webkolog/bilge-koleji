@@ -1,0 +1,38 @@
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\ApplicationIcon.png
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Background.png
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile Uygulamasi.dll
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\AppManifest.xaml
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile_Uygulamasi.xap
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\App.g.i.cs
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\MainPage.g.i.cs
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.g.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.dll
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\XapCacheFile.xml
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\ApplicationIcon.png
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Background.png
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile Uygulamasi.dll
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\AppManifest.xaml
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile_Uygulamasi.xap
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\App.g.i.cs
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\MainPage.g.i.cs
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.g.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.dll
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\XapCacheFile.xml
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\ApplicationIcon.png
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Background.png
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile Uygulamasi.dll
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\AppManifest.xaml
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\Bin\Debug\Mobile_Uygulamasi.xap
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\App.g.i.cs
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\MainPage.g.i.cs
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.g.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.dll
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\Mobile Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Mobile Uygulamasi\obj\Debug\XapCacheFile.xml

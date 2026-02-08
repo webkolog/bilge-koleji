@@ -1,0 +1,179 @@
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.pdb
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Form1.resources
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+c:\users\ali\documents\visual studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+D:\Projects\Web\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+D:\Projects\Web\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Properties.Resources.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe.config
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frm_AnaForm.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmGiris.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe.config
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmGiris.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frm_AnaForm.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Properties.Resources.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe
+C:\Users\Ali\Desktop\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltAyarlar.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.AboutBoxHakkinda.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSifreDegistir.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSezonOlustur.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersProgramEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmlAltMesajGonder.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltVeliDuzenle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltMesajOku.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciGoster.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDevamsizlikEkle.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.3514.tlog
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.3625.tlog
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltKarneDetay.resources
+D:\Projects\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltBelgeDetay.resources
+F:\Kişisel\Çalışmalar-Projeler\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe.config
+F:\Kişisel\Çalışmalar-Projeler\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+F:\Kişisel\Çalışmalar-Projeler\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe.config
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.AboutBoxHakkinda.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltAyarlar.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltBelgeDetay.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersProgramEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDevamsizlikEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltKarneDetay.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltMesajOku.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciGoster.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSezonOlustur.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSifreDegistir.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifEkle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltVeliDuzenle.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmGiris.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmlAltMesajGonder.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frm_AnaForm.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Properties.Resources.resources
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.3514.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.read.3625.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe.config
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.AboutBoxHakkinda.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltAyarlar.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltBelgeDetay.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersProgramEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDevamsizlikEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltKarneDetay.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltMesajOku.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciGoster.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSezonOlustur.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSifreDegistir.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifEkle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltVeliDuzenle.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmGiris.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmlAltMesajGonder.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frm_AnaForm.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.csproj.GenerateResource.Cache
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe.config
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.exe
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.pdb
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.exe
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\bin\Debug\Windows Uygulamasi.pdb
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.AboutBoxHakkinda.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltAyarlar.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltBelgeDetay.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDerslikEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDersProgramEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDevamsizlikEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltDuyuruEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltKarneDetay.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltMesajOku.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgrenciGoster.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltOgretmenEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSezonOlustur.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSifreDegistir.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltSinifEkle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmAltVeliDuzenle.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmGiris.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frmlAltMesajGonder.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.frm_AnaForm.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows_Uygulamasi.Properties.Resources.resources
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Windows Uygulamasi\obj\x86\Debug\Windows Uygulamasi.csproj.GenerateResource.Cache

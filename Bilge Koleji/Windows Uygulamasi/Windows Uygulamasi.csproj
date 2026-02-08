@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{78DDC7F2-895E-4DF7-8BED-AB5485A440B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Windows_Uygulamasi</RootNamespace>
+    <AssemblyName>Windows Uygulamasi</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>School.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBoxHakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBoxHakkinda.Designer.cs">
+      <DependentUpon>AboutBoxHakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayarlar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Ayarlar.settings</DependentUpon>
+    </Compile>
+    <Compile Include="dbIslem.cs" />
+    <Compile Include="frmAltAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltAyarlar.Designer.cs">
+      <DependentUpon>frmAltAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltBelgeDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltBelgeDetay.Designer.cs">
+      <DependentUpon>frmAltBelgeDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDersDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDersDuzenle.Designer.cs">
+      <DependentUpon>frmAltDersDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDersEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDersEkle.Designer.cs">
+      <DependentUpon>frmAltDersEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDerslikDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDerslikDuzenle.Designer.cs">
+      <DependentUpon>frmAltDerslikDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDerslikEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDerslikEkle.Designer.cs">
+      <DependentUpon>frmAltDerslikEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDersProgramEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDersProgramEkle.Designer.cs">
+      <DependentUpon>frmAltDersProgramEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDevamsizlikEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDevamsizlikEkle.Designer.cs">
+      <DependentUpon>frmAltDevamsizlikEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDuyuruDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDuyuruDuzenle.Designer.cs">
+      <DependentUpon>frmAltDuyuruDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltDuyuruEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltDuyuruEkle.Designer.cs">
+      <DependentUpon>frmAltDuyuruEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltKarneDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltKarneDetay.Designer.cs">
+      <DependentUpon>frmAltKarneDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltMesajOku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltMesajOku.Designer.cs">
+      <DependentUpon>frmAltMesajOku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltOgrenciDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltOgrenciDuzenle.Designer.cs">
+      <DependentUpon>frmAltOgrenciDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltOgrenciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltOgrenciEkle.Designer.cs">
+      <DependentUpon>frmAltOgrenciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltOgrenciGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltOgrenciGoster.Designer.cs">
+      <DependentUpon>frmAltOgrenciGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltOgretmenDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltOgretmenDuzenle.Designer.cs">
+      <DependentUpon>frmAltOgretmenDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltOgretmenEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltOgretmenEkle.Designer.cs">
+      <DependentUpon>frmAltOgretmenEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltSezonOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltSezonOlustur.Designer.cs">
+      <DependentUpon>frmAltSezonOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltSifreDegistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltSifreDegistir.Designer.cs">
+      <DependentUpon>frmAltSifreDegistir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltSinifDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltSinifDuzenle.Designer.cs">
+      <DependentUpon>frmAltSinifDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltSinifEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltSinifEkle.Designer.cs">
+      <DependentUpon>frmAltSinifEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltVeliDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltVeliDuzenle.Designer.cs">
+      <DependentUpon>frmAltVeliDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlAltMesajGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlAltMesajGonder.Designer.cs">
+      <DependentUpon>frmlAltMesajGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AnaForm.Designer.cs">
+      <DependentUpon>frm_AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Yardimci.cs" />
+    <EmbeddedResource Include="AboutBoxHakkinda.resx">
+      <DependentUpon>AboutBoxHakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltAyarlar.resx">
+      <DependentUpon>frmAltAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltBelgeDetay.resx">
+      <DependentUpon>frmAltBelgeDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDersDuzenle.resx">
+      <DependentUpon>frmAltDersDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDersEkle.resx">
+      <DependentUpon>frmAltDersEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDerslikDuzenle.resx">
+      <DependentUpon>frmAltDerslikDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDerslikEkle.resx">
+      <DependentUpon>frmAltDerslikEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDersProgramEkle.resx">
+      <DependentUpon>frmAltDersProgramEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDevamsizlikEkle.resx">
+      <DependentUpon>frmAltDevamsizlikEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDuyuruDuzenle.resx">
+      <DependentUpon>frmAltDuyuruDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltDuyuruEkle.resx">
+      <DependentUpon>frmAltDuyuruEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltKarneDetay.resx">
+      <DependentUpon>frmAltKarneDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltMesajOku.resx">
+      <DependentUpon>frmAltMesajOku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltOgrenciDuzenle.resx">
+      <DependentUpon>frmAltOgrenciDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltOgrenciEkle.resx">
+      <DependentUpon>frmAltOgrenciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltOgrenciGoster.resx">
+      <DependentUpon>frmAltOgrenciGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltOgretmenDuzenle.resx">
+      <DependentUpon>frmAltOgretmenDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltOgretmenEkle.resx">
+      <DependentUpon>frmAltOgretmenEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltSezonOlustur.resx">
+      <DependentUpon>frmAltSezonOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltSifreDegistir.resx">
+      <DependentUpon>frmAltSifreDegistir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltSinifDuzenle.resx">
+      <DependentUpon>frmAltSinifDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltSinifEkle.resx">
+      <DependentUpon>frmAltSinifEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltVeliDuzenle.resx">
+      <DependentUpon>frmAltVeliDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlAltMesajGonder.resx">
+      <DependentUpon>frmlAltMesajGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AnaForm.resx">
+      <DependentUpon>frm_AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ayarlar.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Ayarlar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="School.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,36 @@
+-Öðrenciler
+-Veliler
+-Öðretmenler
+-Derslikler
+-Sýnýflar
+Mesajlar
+-Duyurular
+-Dersler
+-Ders Programlarý
+
+Kitle Türü:
+0: herkes
+1: sadece öðretmenin sýnýfý
+
+Cinsiyet:
+0: Erkek
+1: Bayan
+
+DevamEdiyorMu
+0: hayýr
+1: evet
+
+Sebep
+0:mezun
+1:atýldý
+2:transfer oldu
+3:okulu býraktý
+
+özel neden
+0: yok
+1: raporlu
+2: izinli
+
+karne sonuc:
+true  geçti
+false sýnýf tekrarý

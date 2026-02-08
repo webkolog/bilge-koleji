@@ -1,0 +1,3 @@
+Önce þunlarý yap sonra çalýþtýr:
+1) DB'yi ya SQL Server'a attach et ya da bulunduðu dizine göre connection string yaz.
+2) app.config'deki connection stirngleri güncelle.

@@ -1,0 +1,25 @@
+D:\Projects\Bilge Koleji\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.dll
+D:\Projects\Bilge Koleji\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.pdb
+D:\Projects\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.dll
+D:\Projects\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.dll
+C:\Users\Ali\Desktop\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Web Uygulamasi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.dll
+C:\Users\Ali\Desktop\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.dll
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.pdb
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.dll
+C:\Users\Ali\Desktop\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.dll
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.dll
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.pdb
+D:\Projects\Yazılım\C#\Bilge Koleji\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.dll
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Web Uygulamasi\bin\Web Uygulamasi.pdb
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.dll
+C:\Users\Webkolog\Documents\Visual Studio 2010\Projects\Bilge Koleji\Web Uygulamasi\obj\Debug\Web Uygulamasi.pdb
